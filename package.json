@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniagodoy-cmyk/Lab-Tarea5.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniagodoy-cmyk/Lab-Tarea5/issues"
+  },
+  "homepage": "https://github.com/antoniagodoy-cmyk/Lab-Tarea5#readme",
   "dependencies": {
     "express": "^5.1.0"
   }
